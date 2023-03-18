@@ -1,13 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Title>A simple object mapper for .NET</Title>
-    <Description>A simple object mapper for .NET</Description>
+    <Description>A simple object mapper for .NET which is a lightweight and fast. It provides a simple and easy-to-use API for mapping objects of one type to another.</Description>
     <PackageId>DotNetMapper</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <PackageProjectUrl>https://github.com/sanamhub/dotnet-mapper</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/sanamhub/dotnet-mapper</RepositoryUrl>
