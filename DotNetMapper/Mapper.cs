@@ -1,7 +1,7 @@
 ﻿using System.Collections.Concurrent;
 using System.Linq.Expressions;
 
-namespace Mapper;
+namespace DotNetMapper;
 
 public static class Mapper
 {
